@@ -5,7 +5,7 @@
 
 Desenvolvedor Full-Stack e entusiasta na maior parte do tempo, especialmente com o ecossistema JavaScript. 
 
-- 🌐 Visite meu [portfólio](https://www.waldera.dev/) para mais informações.
+- 🌐 Visite meu [portfólio](https://patrickwaldera.com/) para mais informações.
 
 ---
 
