@@ -3,7 +3,7 @@
 
 #### Sobre mim:
 
-Desenvolvedor Full-Stack e entusiasta na maior parte do tempo, especialmente com o ecossistema JavaScript. 
+Desenvolvedor Full-Stack com foco em backend, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades!
 
 - 🌐 Visite meu [portfólio](https://patrickwaldera.com/) para mais informações.
 
